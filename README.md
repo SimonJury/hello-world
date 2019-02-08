@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+ Hi.
+ Simon here, I like Colin very much.
+ Octopus not so much.
